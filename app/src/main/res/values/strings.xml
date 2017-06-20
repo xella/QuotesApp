@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+
+    <!-- First quote -->
+    <string name="quote_one">
+        “The way to get started is to quit talking and begin doing. ”
+    </string>
+
+    <string name="author_one">
+        Walt Disney
+    </string>
+
+    <!-- Second quote -->
+    <string name="quote_two">
+        "The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty."
+    </string>
+
+    <string name="author_two">
+        Winston Churchill
+    </string>
+
+    <!-- Third quote -->
+    <string name="quote_three">
+        "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls You."
+    </string>
+
+    <string name="author_three">
+        Steve Jobs
+    </string>
+
+    <!-- Fourth quote -->
+    <string name="quote_four">
+        "We generate fears while we sit. We overcome them by action."
+    </string>
+
+    <string name="author_four">
+        Dr. Henry Link
+    </string>
+
+    <!-- Fifth quote -->
+    <string name="quote_five">
+        "The only limit to our realization of tomorrow will be our doubts of today. Let us move forward with strong and active faith."
+    </string>
+
+    <string name="author_five">
+        Franklin D. Roosevelt
+    </string>
+
+    <!-- Sixth quote -->
+    <string name="quote_six">
+        "I have not failed. I've just found 10,000 ways that won't work."
+    </string>
+
+    <string name="author_six">
+        Thomas A. Edison
+    </string>
+
+    <!-- Seventh quote -->
+    <string name="quote_seven">
+        “Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength."
+    </string>
+
+    <string name="author_seven">
+        Arnold Schwarzenegger
+    </string>
+
+    <!-- Eight quote -->
+    <string name="quote_eight">
+        "It always seems impossible until it’s done."
+    </string>
+
+    <string name="author_eight">
+        Nelson Mandela
+    </string>
+
+    <!-- Ninth quote -->
+    <string name="quote_nine">
+        "Start where you are. Use what you have. Do what you can."
+    </string>
+
+    <string name="author_nine">
+        Arthur Ashe
+    </string>
+
+    <!-- Tenth quote -->
+    <string name="quote_ten">
+        "Before you can win, you have to believe you are worthy."
+    </string>
+
+    <string name="author_ten">
+        Mike Ditka
+    </string>
+</resources>
